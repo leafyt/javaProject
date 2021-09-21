@@ -6,7 +6,7 @@ import java.util.Date;
 /**
  * 网站设置表 sys_website
  * 
- * @author ricozhou
+ * @author
  * @date 2018-09-10
  */
 public class Website extends BaseEntity {
