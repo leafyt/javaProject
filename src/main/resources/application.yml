@@ -1,10 +1,10 @@
 # 项目名称、版本、版权年份
 rzspider:
-  name: RZSpider
-  version: 3.3.0
-  copyrightYear: 2018
+  name: Project
+  version: 1.0.0
+  copyrightYear: 2021
   #头像地址
-  profile: C:\profile\
+  profile: C:\Users\A\Desktop\
 
 #开发环境配置
 server:
